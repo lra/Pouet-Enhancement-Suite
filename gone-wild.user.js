@@ -3,7 +3,6 @@
 // @version    0.1
 // @description  Do you see red too?
 // @include http://pouet.net/*
-// @include http://www.pouet.net/*
 // @copyright  2013+, mog
 // ==/UserScript==
 
